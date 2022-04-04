@@ -1,5 +1,5 @@
 # ImmoEliza API
-https://immoeliza-api.herokuapp.com/predict/
+https://immoeliza-api.herokuapp.com/predict
 ## Description
 The ImmoEliza API returns a house price prediction and a mean squared error based on 4 mandatory parameters: area, property type, room number and zip code. Additional parameters can be specified for more accurate predictions.
 ### Structure:
@@ -51,4 +51,4 @@ Check server status at: https://immoeliza-api.herokuapp.com/
 ### Documentation
 The documentation is available at: https://immoeliza-api.herokuapp.com/predict
 ### Prediction
-POST data at https://immoeliza-api.herokuapp.com/predict
+POST data at https://immoeliza-api.herokuapp.com/predict/
