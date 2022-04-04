@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+sklearn
+gunicorn
+fastapi
+uvicorn[standard]
+uvicorn
+pydantic
+typing
